@@ -1,0 +1,3 @@
+Git değişikliklerini geri alma:
+
+git checkout -- deneme.html => bu dosyadaki yapılan değişikliği geri al demek
