@@ -12,3 +12,7 @@ git log --oneline => tek satırda kısa bir şekilde gösteriyor
 
 
 git log yaptıktan sonra en sonunda : geliyor oradan çıkmak için q kullanmak lazım
+
+git checkout 13589f5 -- . => versiyon değiştirme yaplabiliyor. Yani bir dosyayı yanlışlıkla sildik geri getirmek için bunu yazıyoruz. commit id sini de yazmamız gerekli ilk 7 rakam da yeterli oluyor. -- . diyerek de ben bu commite bütün dosyalarla geri dönmek istiyorum diyorum.
+
+
