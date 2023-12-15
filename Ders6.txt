@@ -1,0 +1,13 @@
+Git log nedir?
+
+git log => Yapmış olduğumuz commitlerin sıralı bir şekilde listesini getirir.
+
+commit 13589f552649159269becde846236d0c075d9450  (HEAD -> master) commit id sini veriyor ve master branche yapıldığı yazıyor header ile
+Author: Recep <recepcengiz_96@outlook.com> kim yaptı
+Date:   Fri Dec 15 11:41:50 2023 +0300 zamanı
+
+    İlk commit  => commit mesajını burada gösteriyor
+
+git log --oneline => tek satırda kısa bir şekilde gösteriyor
+
+
