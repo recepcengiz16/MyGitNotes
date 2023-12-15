@@ -11,3 +11,4 @@ Date:   Fri Dec 15 11:41:50 2023 +0300 zamanı
 git log --oneline => tek satırda kısa bir şekilde gösteriyor
 
 
+git log yaptıktan sonra en sonunda : geliyor oradan çıkmak için q kullanmak lazım
