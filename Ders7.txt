@@ -1,2 +1,5 @@
 Git Diff nedir ?
-git diff => Git diff ile dosyalarda ne değişikliklikler yapıldı hepsini gösteriyor.
+
+git diff => Git diff ile bütün dosyalarda ne değişikliklikler yapıldı hepsini gösteriyor.
+
+git diff Ders7.txt => sadece bu dosyada ne gibi değişiklikler yapıldı onu yazıyor
