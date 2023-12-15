@@ -1,0 +1,2 @@
+Git Diff nedir ?
+git diff => Git diff ile dosyalarda ne değişikliklikler yapıldı hepsini gösteriyor.
