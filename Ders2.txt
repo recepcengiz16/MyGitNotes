@@ -1,0 +1,16 @@
+Git config nedir?
+
+Diyelim ki dosyada değişiklikler yapılıyo ve bizim bunu bilmemiz gerekli projede bunun için bu ismin tanıtılması gerekli oluyor.
+
+git config --global user.name "Recep" => sadece localde değil globalde de bunları kullanıcam anlamı taşıyor(--global). kullanıcı ile ilgili işlem yapcam diyorum user diyerek  name diyerek de benim kullanıcı ismim bu olsun demiş oluyorum.
+
+git config --global user.email "deneme@gmail.com" => global olarak mail adresi belirlemek için
+
+bu global tanımlamalar ile bu kullanıcı adı ve email adresine ait kullanıcı tarafından yapılacak diye belirtmiş oluyoruz
+
+
+git config --list => conf. listesini göstermek için 
+
+
+
+

@@ -1,0 +1,17 @@
+Git, Github, Gitlub Nedir?
+
+Git bir versiyon kontrol sistemidir.
+
+İlk önce biz kendi çalışma alanımızda değişiklikler yapıyoruz. Daha sonra bunu git add ile staging areaya daha sonra git commit ile local repository dediğimiz depomuza gönderiyoruz.
+
+Git bizim versiyonlarımız arasındaki geçiş işlemlerini, yapmış olduğumuz değişiklikleri aktarmamıza yardımcı olan bir araçtır.
+
+Github,Gitlab vs onlar da bizim depomuz olarak düşünebiliriz. Projelerimizi uzak sunucuda depolamamızı sağlar.
+
+Working directory => kendi klasörümüzde çalıştığımız yer
+
+Staging area => working directory de çalıştıktan sonra git add diyerek staging areaya alınır kodlar. Bu bölgede diyelim ki kodda yanlış bir şey yaptık, silebiliriz geri alabiliriz değişiklikleri.
+
+local repository => bekleme alanından sonra git commit ile local repository e kodu atabiliriz. Daha sonra da bunu uzak sunucuya push ediyoruz.
+
+git merge => farklı farklı branchler arasında geçiş yapabiliyoruz.

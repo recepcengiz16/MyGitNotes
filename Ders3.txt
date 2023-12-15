@@ -1,0 +1,14 @@
+Git Init Nedir?
+
+pwd => Dosya dizin yolunu gösteriyor
+
+mkdir app => app adında klasör oluşturacak
+
+touch index.html => dosya oluşturmak için touch kullanılır.
+
+ls => içinde bulunduğumuz klasörde hangi dosyalar var onu gösteriyor
+
+git init => içinde bulunduğumuz klasör içerisinde .git isimli gizli bir klasör oluşturuyor ve bu klasörde çeşitli ayarlar mevcut. Bu sayede de biz çeşitli ayarlar yapabilir hale geliyoruz. Pull,push vb gibi. Git özellikleri almış oluyor yani
+
+ls -a => bulunduğumuz klasörde gizli dosyalar dahil hepsini getiriyor
+
