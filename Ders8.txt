@@ -1,3 +1,6 @@
 Git değişikliklerini geri alma:
 
 git checkout -- deneme.html => bu dosyadaki yapılan değişikliği geri al demek
+
+git reset HEAD deneme4.txt => staging areada olan bir değişikliği geri almak için ilk önce bunu yazıyoruz sonra da alttaki komutu
+git checkout --deneme4.txt
