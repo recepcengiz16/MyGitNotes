@@ -6,4 +6,5 @@ daha sonra git remote diyerek origin adında bir klasör oluşturmuş oluyoruz
 
 git push -u origin master => push ile repositoryimize projeyi atmamızı sağlıyoruz. origin de vermiş olduğumuz isim olmuş oluyor yukarıdaki, daha sonra da hangi branche göndereceğiz master branchine
 
-git remote remove origin => ile de origini silmemizi sağlıyoruz
+git remote remove origin => ile de origini silmemizi sağlıyoruz. Yani remote origin bağlantısını kaldırıyoruz.
+
