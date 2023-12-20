@@ -5,3 +5,5 @@ git remote add origin https://github.com/recepcengiz16/MyGitNotes.git => oluştu
 daha sonra git remote diyerek origin adında bir klasör oluşturmuş oluyoruz
 
 git push -u origin master => push ile repositoryimize projeyi atmamızı sağlıyoruz. origin de vermiş olduğumuz isim olmuş oluyor yukarıdaki, daha sonra da hangi branche göndereceğiz master branchine
+
+git remote remove origin => ile de origini silmemizi sağlıyoruz
