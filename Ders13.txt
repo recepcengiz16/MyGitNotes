@@ -1,0 +1,7 @@
+.gitignore nedir?
+
+Göz ardı edeceğimiz dosyaları tanıtmamızı sağlar. Diyelim ki data dosyalarım var. Bunları almak ve göstermek istemiyor olabiliriz. git ignore ile istemediğimiz dosyalrın paylaşılmasını engelleyebiliyoruz.
+
+.gitignore dosyasının içerisine yazıyoruz istemediğimiz dosyaları ve klasörleri yazarız. dosya adı, klasörde ise klasöradı/* şeklinde
+
+şu dosya hariç demek için de, yani bu dosyayı gönder diğerlerini gönderme demek içinde .gitignore içinde !klasör/deneme.txt şeklinde olmalı, deneme.txt paylaşılacak gitte demiş olduk
