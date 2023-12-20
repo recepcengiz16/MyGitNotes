@@ -1,6 +1,6 @@
 Git Commit nedir?
 
-Local repository ye göndermeden önce projeyi staging areaya göndermemiz gerekiyor projeyi, daha sonra commit yaparak local repositorye göndermemiz gerekli
+Local repository ye göndermeden önce projeyi staging areaya göndermemiz gerekiyor, daha sonra commit yaparak local repositorye göndermemiz gerekli
 
 git add index.html => tek dosyayı bu şekilde staging areaya eklemiş oluyoruz.
 
