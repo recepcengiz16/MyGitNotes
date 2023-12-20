@@ -1,0 +1,21 @@
+
+git stash, çalışma dizininizde yaptığınız ancak henüz commit etmediğiniz değişiklikleri geçici olarak saklamak ve daha sonra bu değişiklikleri geri getirmek için kullanılan bir Git komutudur. Bu komut, çalışma dizinizdeki değişiklikleri temiz bir hale getirmenizi sağlar, böylece başka bir branch'a geçebilir veya mevcut branch üzerinde başka bir işlem yapabilirsiniz.
+
+git stash kullanmanın temel senaryoları şunlardır:
+
+Başka bir branch'a geçmek istiyorsunuz: Mevcut branch'taki değişiklikleri commit etmeden başka bir branch'a geçmek istediğinizde, değişiklikleri geçici olarak saklayabilir ve sonra tekrar dönebilirsiniz.
+
+
+git stash
+git checkout diğer_branch
+
+Ani bir acil durum çıktı ve hızlıca başka bir şeyle ilgilenmeniz gerekiyor: Çalışma dizinizde yaptığınız değişiklikleri commit etmeden hızlıca bir başka işle uğraşmanız gerektiğinde, git stash kullanabilirsiniz.
+
+
+git stash
+# Başka bir iş yap
+git stash pop  # Değişiklikleri geri getir
+
+git stash komutu, değişiklikleri geçici bir alana (stash olarak adlandırılır) kaydeder ve çalışma dizinini temizler. git stash pop komutu ise en son kaydedilen stash'i geri getirir ve stash'i listeden kaldırır.
+
+Bu komutu kullanarak geçici olarak değişiklikleri saklamak, Git'de daha esnek bir çalışma akışı sağlar, özellikle birden fazla görev üzerinde çalışırken veya beklenmedik durumlarla karşılaşıldığında kullanışlıdır.
