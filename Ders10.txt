@@ -1,0 +1,3 @@
+git mv => Dosyanın ismini değiştirmeye ve dosyayı taşımaya yarıyor.
+
+git mv deneme.txt test.txt => İlk önce ismini değiştirmek istediğin dosya sonra da yeni adını veriyorsun
