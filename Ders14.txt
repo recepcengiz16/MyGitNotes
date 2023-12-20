@@ -1,6 +1,6 @@
-Brnach kavramı:
+Branch kavramı:
 
-Brnach ler projelerimizin olduğu dallanma yapısı. Development için bir dal ayırıp projeleri oraya aktarması var.
+Branch ler projelerimizin olduğu dallanma yapısı. Development için bir dal ayırıp projeleri oraya aktarması var.
 Daha sonra main branch dediğimiz dallanmada ana proje yer alıyor. Branch dediğimiz şey aslında dallanma yapısı, canlıdaki, testteki, development sürecinin yönetilmesi için düşünülebilir
 
 git branch => localdeki branch i göstermesi için
