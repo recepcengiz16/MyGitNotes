@@ -1,0 +1,5 @@
+Uzak sunucuya bağlanma ve projeyi push yapma
+
+git remote add origin https://github.com/recepcengiz16/MyGitNotes.git => oluşturduğum repository url bağlantısını ekle demiş olduk. origin diyerek de isim vermiş oluyoruz, fark etmez başka bir şey de diyebiliriz. origin master, origin dev(developer ortamı için oluşturduğum branchin adı olabilir.)
+
+daha sonra git remote diyerek origin adında bir klasör oluşturmuş oluyoruz
