@@ -1,0 +1,5 @@
+Alias nedir?
+
+git config --global alias.st status => status özelliğini al st ye depola yani st yazarak kısaltma şeklinde kullanabiliriz git status yerine git st de aynı işi görmüş olacak. Yani git status ile git st aynı olmuş oluyor
+
+
