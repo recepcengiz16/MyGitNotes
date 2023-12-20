@@ -8,3 +8,5 @@ git push -u origin main => push ile repositoryimize projeyi atmamızı sağlıyo
 
 git remote remove origin => ile de origini silmemizi sağlıyoruz. Yani remote origin bağlantısını kaldırıyoruz.
 
+git pull => githubdan dosyaları çekmek için
+
