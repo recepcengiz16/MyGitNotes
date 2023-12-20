@@ -4,3 +4,4 @@ git mv deneme.txt test.txt => İlk önce ismini değiştirmek istediğin dosya s
 
 git mv test.txt klasör/ => bu dosyayı şu klasörün içerisine taşı
 
+git mv test.txt klasör/abc.txt => Taşırken de ismini değiştir dosyanın
