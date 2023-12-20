@@ -1,0 +1,15 @@
+GitHub'da bir "fork", başka bir kullanıcının projesini kendi GitHub hesabınıza kopyalamanızı sağlayan bir işlemdir. Fork işlemi sayesinde orijinal projenin bir kopyasını alabilir ve bu kopyayı kendi GitHub hesabınızda geliştirebilirsiniz. Bu, orijinal projeyi değiştirmeksizin kendi değişikliklerinizi yapmanıza ve takip etmenize olanak tanır.
+
+Fork işlemi şu adımları içerir:
+
+Orijinal Projenin Sayfasına Gitme: GitHub'da fork yapmak istediğiniz projenin sayfasına gidin.
+
+Fork Tuşuna Basma: Sayfanın sağ üst köşesinde, projenin adının hemen üzerinde bir "Fork" tuşu bulunur. Bu tuşa tıkladığınızda, projenin bir kopyası kendi GitHub hesabınıza oluşturulur.
+
+Kopyanın Kullanılabilir Hale Gelmesi: Fork işlemi tamamlandığında, kopya artık kendi GitHub hesabınızda bulunur. Bu kopyayı istediğiniz gibi değiştirebilir ve güncelleyebilirsiniz.
+
+Değişiklikleri Yapma ve Commit Etme: Fork ettiğiniz projeyi düzenledikten sonra değişikliklerinizi yapabilir ve bu değişiklikleri "commit" adı verilen adımlarla kaydedebilirsiniz.
+
+Pull Request Açma: Eğer yaptığınız değişiklikleri orijinal projeye eklemek istiyorsanız, "Pull Request" (Çekme İsteği) açabilirsiniz. Orijinal projenin sahibi bu değişiklikleri inceleyebilir ve kabul edebilir veya reddedebilir.
+
+Fork işlemi, açık kaynak projelerde ve işbirliği yapılan birçok yazılım geliştirme senaryosunda yaygın olarak kullanılır. Bu sayede bir projenin gelişimine katkıda bulunabilir ve kendi önerilerinizi sunabilirsiniz.
