@@ -1,0 +1,35 @@
+Brnach kavramı:
+
+Brnach ler projelerimizin olduğu dallanma yapısı. Development için bir dal ayırıp projeleri oraya aktarması var.
+Daha sonra main branch dediğimiz dallanmada ana proje yer alıyor. Branch dediğimiz şey aslında dallanma yapısı, canlıdaki, testteki, development sürecinin yönetilmesi için düşünülebilir
+
+git branch => localdeki branch i göstermesi için
+
+git branch dev => dev adı altında yeni branch oluşturuyoruz localimizde.
+
+git branch --all => hem localde hem de uzak sunucadaki branchleri gösterir
+
+git fetch => uzak sunucadaki yeni oluşturulmuş brancheleri de localimize çekebiliyoruz. Yani erişilebilir duruma getiriyoruz.
+
+git checkout dev => dev branchine geçiyoruz burada da
+git push -u origin dev => bu sefer de dev branchine push yapmış oluyoruz.  
+
+git pull origin dev => o branchdeki dosyaları çekmek için 
+
+Merge işlemi nedir? İki branchi birleştirme işlemine denmektedir.
+İlk önce hangi branche aktaracaksan o branche geçmelisin. git checkout main
+Daha sonra da hangi branchi birleştireceksen onu yazıyorsun. 
+git merge dev => şu an main branchde olduğumu varsayıyorum. O anda devdeki kodları merge yapıyorum main branche
+
+daha sonra da pull yapmam gerekli
+git push -u origin main yapmamız gerekli
+
+
+git fetch -p => Git branchlere bak olmayanları sil demiş olduk
+
+git branch -D test => localimizde olan test isimli branchi silmek için
+
+
+
+
+
