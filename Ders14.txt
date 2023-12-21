@@ -5,9 +5,9 @@ Daha sonra main branch dediğimiz dallanmada ana proje yer alıyor. Branch dedi�
 
 git branch => localdeki branch i göstermesi için
 
-git branch dev => dev adı altında yeni branch oluşturuyoruz localimizde.
-
 git branch --all => hem localde hem de uzak sunucadaki branchleri gösterir
+
+git branch dev => dev adı altında yeni branch oluşturuyoruz localimizde.
 
 git fetch => uzak sunucadaki yeni oluşturulmuş brancheleri de localimize çekebiliyoruz. Yani erişilebilir duruma getiriyoruz.
 
