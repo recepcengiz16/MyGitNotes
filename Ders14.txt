@@ -26,7 +26,7 @@ git push -u origin main yapmamız gerekli
 
 
 git fetch -p => Git branchlere bak olmayanları sil demiş olduk
+Bu komut, uzak depodan güncel bilgileri getirir ve aynı zamanda yerelde artık var olmayan uzak referansları temizler.
 
 git branch -D test => localimizde olan test isimli branchi silmek için
-
 
