@@ -3,5 +3,6 @@ Dosyayı silme:
 git rm deneme.txt => Dosyayı silmeye yarıyor
 
 git rm -r klasöradı/ => klasörü silmek için. -r recursive anlamında. sana vereceğim klasörü ve içindekileri sil anlamında
+-r klasörün içindeki alt klasörleri ve dosyaları da dahil ederek silme işlemini gerçekleştirmek anlamında.
 
 
