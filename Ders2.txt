@@ -6,6 +6,8 @@ git config --global user.name "Recep" => sadece localde değil globalde de bunla
 
 git config --global user.email "deneme@gmail.com" => global olarak mail adresi belirlemek için
 
+git config --system core.editor "nano" => Sistem düzeyi konfigürasyon ayarları, tüm sistemdeki kullanıcılar için geçerli olan genel ayarları içerir. Bu ayarlar genellikle /etc/gitconfig dosyasında saklanır. Bu düzeydeki değişiklikler genellikle yalnızca sistem yöneticileri tarafından yapılabilir.
+
 bu global tanımlamalar ile bu kullanıcı adı ve email adresine ait kullanıcı tarafından yapılacak diye belirtmiş oluyoruz
 
 
