@@ -14,4 +14,4 @@ Staging area => working directory de çalıştıktan sonra git add diyerek stagi
 
 local repository => bekleme alanından sonra git commit ile local repository e kodu atabiliriz. Daha sonra da bunu uzak sunucuya push ediyoruz.
 
-git merge => farklı farklı branchler arasında geçiş yapabiliyoruz.
+merge işleminde iki farklı repositoryi birleştirmiş oluyoruz 
