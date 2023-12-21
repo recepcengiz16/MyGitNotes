@@ -2,7 +2,7 @@ Uzak sunucuya bağlanma ve projeyi push yapma
 
 git remote add origin https://github.com/recepcengiz16/MyGitNotes.git => oluşturduğum repository url bağlantısını ekle demiş olduk locale. origin diyerek de isim vermiş oluyoruz, fark etmez başka bir şey de diyebiliriz. origin main, origin dev(developer ortamı için oluşturduğum branchin adı olabilir.)
 
-daha sonra git remote diyerek origin adında bir klasör oluşturmuş oluyoruz localde
+git remote => Bu komut, mevcut Git deposu ile ilişkilendirilmiş uzak depoların adlarını listeler.
 
 git push -u origin main => push ile repositoryimize projeyi atmamızı sağlıyoruz. origin de vermiş olduğumuz isim olmuş oluyor yukarıdaki, daha sonra da hangi branche göndereceğiz main branchine
 
