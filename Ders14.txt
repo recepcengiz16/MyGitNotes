@@ -30,6 +30,3 @@ git fetch -p => Git branchlere bak olmayanları sil demiş olduk
 git branch -D test => localimizde olan test isimli branchi silmek için
 
 
-
-
-
