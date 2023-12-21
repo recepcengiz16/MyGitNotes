@@ -10,5 +10,5 @@ git remote remove origin => ile de origini silmemizi sağlıyoruz. Yani remote o
 
 git pull => githubdan dosyaları çekmek için
 
-git clone https://egvrcn@bitbucket.org/egvrcn/test.git(proje yolu) =>  Var Olan Bir Remote Projeye Entegrasyon. İlk defa uzaktan bir projeye bağlanıp onun git halini almak için aşağıdaki kod yazılır. Bu sayede ilgili git projesi son haliyle yüklenir ve otomatik olarak origin remote'u eklenir.
+git clone https://egvrcn@bitbucket.org/egvrcn/test.git(proje yolu) =>  Var Olan Bir Remote Projeye Entegrasyon. İlk defa uzaktan bir projeye bağlanıp onun git halini almak için aşağıdaki kod yazılır. Bu sayede ilgili git projesi son haliyle yüklenir ve otomatik olarak origin remote'u eklenir. Bu komut, belirtilen URL'deki uzak depoyu klonlar ve bu depoyu içeren yeni bir dizin oluşturur. Bu genellikle bir projeyi başlatmak veya mevcut bir projeyi başka bir yerde kullanmak istediğinizde kullanılır. Bu komut, uzak bir depoyu klonlamak ve lokal bir kopya oluşturmak için kullanılır. 
 
