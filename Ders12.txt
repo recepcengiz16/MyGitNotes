@@ -1,6 +1,6 @@
 Uzak sunucuya bağlanma ve projeyi push yapma
 
-git remote add origin https://github.com/recepcengiz16/MyGitNotes.git => oluşturduğum repository url bağlantısını ekle demiş olduk locale. origin diyerek de isim vermiş oluyoruz, fark etmez başka bir şey de diyebiliriz. origin main, origin dev(developer ortamı için oluşturduğum branchin adı olabilir.) "origin" uzak depoya bir takma ad (alias) verir. "origin" ismi geleneksel olarak bir uzak depo adı olarak kullanılır, ancak farklı bir ad seçilebilir.
+git remote add origin https://github.com/recepcengiz16/MyGitNotes.git => oluşturduğum repository url bağlantısını ekle demiş olduk locale. origin diyerek de isim vermiş oluyoruz, fark etmez başka bir şey de diyebiliriz. origin main, origin dev(developer ortamı için oluşturduğum branchin adı olabilir.) "origin" uzak depoya bir takma ad (alias) verir. "origin" ismi geleneksel olarak bir uzak depo adı olarak kullanılır, ancak farklı bir ad seçilebilir. Alias veriyoruz ki sürekli url yi hatırlamıyalım alias ile erişelim o url ye
 
 git remote => Bu komut, mevcut Git deposu ile ilişkilendirilmiş uzak depoların adlarını listeler.
 
