@@ -1,5 +1,5 @@
 Git Status nedir?
 
-git status => Klasörümde yaptığım değişiklikler ama henüz staging areaya aktarmadığım değişiklikleri gösteriyor.
+git status => Klasörümde yaptığım değişiklikleri gösteriyor, staging areaya aktardığım ve henüz aktarmadıklarım değişiklikleri gösteriyor.
 
 Staging areaya eklenenler yeşil renkli, henüz eklenmeyenler kırmızı görünecek
