@@ -1,6 +1,6 @@
 Git Init Nedir?
 
-pwd => Dosya dizin yolunu gösteriyor
+pwd: print working directory => Dosya dizin yolunu gösteriyor
 
 mkdir app => app adında klasör oluşturacak
 
@@ -12,3 +12,4 @@ git init => içinde bulunduğumuz klasör içerisinde .git isimli gizli bir klas
 
 ls -a => bulunduğumuz klasörde gizli dosyalar dahil hepsini getiriyor
 
+cd: change directory => o dizindeki başka bir klasöre geçmemize yarar
